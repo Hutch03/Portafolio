@@ -19,7 +19,7 @@ El objetivo es analizar los factores asociados al abandono de clientes (churn) e
 - **Librerías principales**:
   - `pandas`, `numpy` → Manipulación de datos
   - `matplotlib`, `seaborn` → Visualización de datos
-  - `os`, `glob` → Gestión de archivos y carga dinámica
+  - `requests`, `json` → Gestión de archivos y carga dinámica
 
 ---
 
