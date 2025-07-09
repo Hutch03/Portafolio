@@ -5,7 +5,10 @@
   ### 📁Ciencia de datos
     - Estadistica con Pyhton
     - Proceso de ETL y gráficos a partir de archivo Jason
-    - Regresión Lineal
+    - Aplicación de modelos:
+      -Regresión Lineal
+      -Árbol de decisión
+      -KNN
    ### 📁Power Bi
     - Tablero de análisis de información de homicidios en USA
     
