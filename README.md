@@ -9,6 +9,7 @@
       -Regresión Lineal
       -Árbol de decisión
       -KNN
+      -Random Forest
    ### 📁Power Bi
     - Tablero de análisis de información de homicidios en USA
     
